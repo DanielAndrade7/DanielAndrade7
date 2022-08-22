@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Daniel 👋
 
 - I'm a Full-Stack Web Development student at the Labenu bootcamp. 
 - I'm also a Production Engineer graduated at UFF.
