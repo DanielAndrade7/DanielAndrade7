@@ -3,6 +3,8 @@
 - I'm a Full-Stack Web Development student at the Labenu bootcamp. 
 - I'm also a Production Engineer graduated at UFF.
 
+  ##
+
 <div align="center">
   <a href="https://github.com/DanielAndrade7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielAndrade7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
