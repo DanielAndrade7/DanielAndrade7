@@ -12,7 +12,7 @@
 
   ##
   
-  ## Tecnologies I can work with:
+  ## Tecnologies I work with:
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
