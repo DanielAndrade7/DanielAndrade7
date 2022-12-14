@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel 👋
 
-- I'm a Full-Stack Jr working at Ranor Rastreamento. 
+- I'm a Full-Stack Jr Developer working at Ranor Rastreamento. 
 - I'm also a Production Engineer graduated at UFF.
 
   ##
