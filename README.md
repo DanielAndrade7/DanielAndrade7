@@ -1,7 +1,7 @@
 ## Hi there, I'm Daniel 👋
 
 - I'm a Full-Stack Jr Developer working at Ranor Rastreamento. 
-- I'm also a Production Engineer graduated at UFF.
+- I'm also a Production Engineer graduated at UFF and a student of Computer Science at ETEP.
 
   ##
 
